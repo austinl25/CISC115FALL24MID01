@@ -2,5 +2,5 @@
 using namespace std;
 int main(){
 
-    cout<<"My first program for the semester"<<endl;
+return 0;
 }
